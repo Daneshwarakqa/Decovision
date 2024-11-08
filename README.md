@@ -1,4 +1,4 @@
-## Interior Designer AI
+## Decovision
 
 <img width="1713" alt="Screenshot 2024-11-08 at 6 05 07 PM" src="https://github.com/user-attachments/assets/230b70ae-fca0-4150-88eb-6bcff5ed5bd8">
 
