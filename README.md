@@ -9,14 +9,14 @@
 
 In your Terminal app
 
-- Type `git clone git@github.com:siegblink/interior-designer-ai.git`
-- Or type `git clone https://github.com/siegblink/interior-designer-ai.git`
+- Type `git clone https://github.com/Daneshwarakqa/Decovision.git`
+- Or type `git clone https://github.com/Daneshwarakqa/Decovision.git`
 
 ### 2. Install the project dependencies
 
 Go to the project's directory
 
-- Type `cd interior-designer-ai`
+- Type `cd Decovision`
 - Then, `npm install`
 
 ### 3. Create an account at [replicate](https://replicate.com/)
