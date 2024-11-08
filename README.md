@@ -1,6 +1,7 @@
 ## Interior Designer AI
 
-![Interior design image](public/app-screenshot.png)
+<img width="1713" alt="Screenshot 2024-11-08 at 6 05 07 PM" src="https://github.com/user-attachments/assets/230b70ae-fca0-4150-88eb-6bcff5ed5bd8">
+
 
 ## How to use
 
@@ -22,27 +23,21 @@ Go to the project's directory
 
 ![create-account-in-replicate](public/create-account-in-replicate.png)
 
-### 4. Go to the _API tokens_ page within your replicate account
+### 4. Create your API token and copy it
 
-![go-to-api-tokens](public/go-to-api-tokens.png)
+![image (2)](https://github.com/user-attachments/assets/90750066-207d-4801-ba6a-fa9043ff8a2c)
 
-### 5. Create your API token and copy it
 
-![create-api-token](public/create-api-token.png)
+### 5. Rename the `.env.example` file to `.env.local`
 
-### 6. Rename the `.env.example` file to `.env.local`
-
-### 7. In `.env.local`, replace the placeholder _your_api_token_ with your API token
+### 6. In `.env.local`, replace the placeholder _your_api_token_ with your API token
 
 ```
 # Replace 'your-api-token' with your own API token from replicate
 REPLICATE_API_TOKEN=your_api_token
 ```
 
-### 8. Run the project
+### 7. Run the project
 
 Back in your Terminal in the project directory, type `npm run dev`
 
-### 9. See the running application in your browser at `localhost:3000`
-
-![see-running-app](public/see-running-app.png)
