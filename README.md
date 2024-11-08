@@ -28,16 +28,14 @@ Go to the project's directory
 ![image (2)](https://github.com/user-attachments/assets/90750066-207d-4801-ba6a-fa9043ff8a2c)
 
 
-### 5. Rename the `.env.example` file to `.env.local`
-
-### 6. In `.env.local`, replace the placeholder _your_api_token_ with your API token
+### 5. Create `.env.local` and add your API token
 
 ```
 # Replace 'your-api-token' with your own API token from replicate
-REPLICATE_API_TOKEN=your_api_token
+REPLICATE_API_TOKEN=**********
 ```
 
-### 7. Run the project
+### 6. Run the project
 
 Back in your Terminal in the project directory, type `npm run dev`
 
